@@ -1,6 +1,6 @@
 function showTime() {
     const date = new Date();
-    return date.getHours() + " Hrs : " + date.getMinutes() + " Minutes : " + date.getSeconds() + " Seconds : ";
+    return date.getHours() + " Hrs : " + date.getMinutes() + " Minutes : " + date.getSeconds() + " Seconds ";
 }
 
 function showSessionExpire() {
