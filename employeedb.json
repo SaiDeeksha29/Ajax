@@ -1,24 +1,23 @@
 {
-  "employees": [
-    {
-      "name": "Vishal",
-      "salary": 1500000,
-      "id": 1
-    },
-    {
-      "name": "John",
-      "salary": 2500000,
-      "id": 2
-    },
-    {
-      "name": "Asifa",
-      "salary": 1800000,
-      "id": 3
-    },
-    {
-      "name": "Harry",
-      "salary": 500000,
-      "id": 4
-    }
-  ]
+    "employees": [{
+            "name": "Vishal",
+            "salary": 1500000,
+            "id": 1
+        },
+        {
+            "name": "John",
+            "salary": 2500000,
+            "id": 2
+        },
+        {
+            "name": "Asifa",
+            "salary": 1800000,
+            "id": 3
+        },
+        {
+            "name": "Harry",
+            "salary": 500000,
+            "id": 4
+        }
+    ]
 }
